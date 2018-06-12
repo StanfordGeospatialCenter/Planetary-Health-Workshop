@@ -3,11 +3,20 @@
 ## Intro to GIS
 
 ### Google Earth Engine  
+[https://earthengine.google.com/platform/](https://earthengine.google.com/platform/)
+
 1. Login  
 2. Add Landsat TOA Composite / Save
 3. Search for Monterey, CA  
 4. Search for Landsat 7 and look at Metadata
 4. Change to 432 image
+5. Add Data
+6. Add Classes: Urban, Water, Veg. Bare, Golf
+7. Create GCPs
+8. Analysis: Train a Classifier
+9. Fast Naive Bayes 30m
+10. Download Model
+11. A Few words about going further with the GEE Code Editor
 
 
 
