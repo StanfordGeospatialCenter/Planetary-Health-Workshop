@@ -21,8 +21,8 @@ Download the data at:
 [https://stanford.box.com/v/QGISWorkshops](https://stanford.box.com/v/QGISWorkshops)  
 
 1. Open QGIS  
-2. Add Data to QGIS with Browser  
-3. Project CRS to NAD83  
+2. Add Data to QGIS with Browser 
+3. Project Properties CRS=NAD83? 
 4. Alter Display of Imagery  
 5. Change Bands to 432
 6. Change Projection of a dataset  
